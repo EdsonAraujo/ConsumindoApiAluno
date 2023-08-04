@@ -1,0 +1,17 @@
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.exe
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.deps.json
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.runtimeconfig.json
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.dll
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\ConsumindoApiAluno.pdb
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.AssemblyReference.cache
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.AssemblyInfo.cs
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.csproj.CopyComplete
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.dll
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\refint\ConsumindoApiAluno.dll
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.pdb
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ConsumindoApiAluno.genruntimeconfig.cache
+C:\Users\Araujo\Documents\AraujoEstudos\AulaAPI\ConsumindoApiAluno\ConsumindoApiAluno\obj\Debug\net6.0\ref\ConsumindoApiAluno.dll

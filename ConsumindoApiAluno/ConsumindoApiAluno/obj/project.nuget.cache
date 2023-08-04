@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBRgjWBS8cVXMUhDey3gOzirFa0goUwigjtRce6TMV6V1/Y9el2Mv58/sm0QnDKoEeyTL7wjCeYDlMqcvEn+Aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Araujo\\Documents\\AraujoEstudos\\AulaAPI\\ConsumindoApiAluno\\ConsumindoApiAluno\\ConsumindoApiAluno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Araujo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
