@@ -1,0 +1,23 @@
+# ConsumindoApiAluno
+
+Este projeto é um exemplo simples de consumo de API para buscar informações de um aluno a partir de seu ID.
+
+
+## Funcionamento
+
+O programa solicita ao usuário um `id`, utiliza o serviço `AlunoServices` para buscar os dados do aluno através do método `Integracao`, e exibe as informações do aluno caso encontrado.
+
+### Etapas:
+1. Solicita ao usuário o ID do aluno.
+2. Realiza a integração com a API utilizando o serviço `AlunoServices`.
+3. Verifica se o aluno foi encontrado:
+   - Se encontrado, exibe informações como nome, matrícula e situação.
+   - Caso contrário, informa que o aluno não foi encontrado.
+
+## Requisitos
+
+- .NET 6 ou superior.
+
+## Exemplo de Saída
+
+### Aluno encontrado
